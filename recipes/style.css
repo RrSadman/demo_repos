@@ -1,0 +1,22 @@
+* {
+    background-color: rgb(190, 190, 241);
+}
+.bg 
+{
+ font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ background-color: lightpink;
+ border-radius: 15px;
+
+}
+
+.img
+{
+   text-align: center;
+}
+
+.new1
+{
+    background-color: rgb(190, 190, 241);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
